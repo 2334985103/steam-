@@ -17,4 +17,4 @@
    前往 [Steam Web API](https://steamcommunity.com/dev/apikey) 注册免费API密钥
    
 5. **配置文件设置**  
-   编辑 `steam_query_v5.php` 填入你的API密钥
+   编辑 steam_query_v5.php 填入你的API密钥
