@@ -9,9 +9,12 @@
 - Web服务器（Apache/Nginx）  
 - HTML5浏览器  
 
-## 快速部署  
-1. **获取Steam API Key**  
-   前往 [Steam Web API](https://steamcommunity.com/dev/apikey) 注册免费API密钥  
-
-2. **配置文件设置**  
+## 快速部署 
+1. **上传源码**
+   上传源码到你的服务器或者虚拟主机然后解压即可
+   
+3. **获取Steam API Key**  
+   前往 [Steam Web API](https://steamcommunity.com/dev/apikey) 注册免费API密钥
+   
+5. **配置文件设置**  
    编辑 `steam_query_v5.php` 填入你的API密钥
